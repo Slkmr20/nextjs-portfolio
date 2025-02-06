@@ -1,4 +1,4 @@
-# Portfolio Blog Starter
+# M SHEETAL KUMAR
 
 This is a porfolio site template complete with a blog. Includes:
 
